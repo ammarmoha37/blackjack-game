@@ -2,7 +2,7 @@
 
 This is a simple implementation of the popular card game Blackjack built with HTML, CSS, and JavaScript. The game is designed to be played by one player.
 
-## rules of game
+## Rules of game
 
 Open the deployed link below in the demo
 
