@@ -1,10 +1,18 @@
-# blackjackGame
-My first game using JavaScript is Blackjack game.
+# Blackjack Game
 
-While building this game I used my knowledge in HTML, CSS, and JavaScript
+This is a simple implementation of the popular card game Blackjack built with HTML, CSS, and JavaScript. The game is designed to be played by one player.
 
-rules of the game:
+## rules of game
 
-- if you your cards sum is less than 21 you'r still in the game and you can ask for a new card.
-- if you your cards sum is 21 you've won blackjack.
-- if you your cards sum is greater than 21 you are out of the game.
+Open the deployed link below in the demo
+
+- Click the "Start Game" button to receive your initial two cards.
+- If your total sum of cards is less than 21, you can ask for a new card by clicking "New Card" button.
+- If your total sum of cards is exactly 21, you've won Blackjack.
+- If your total sum of cards is greater than 21, you're out of the game.
+
+## Demo
+The app has been deployed online. You can try the app online at https://ammarmoha37.github.io/blackjack-game
+
+## About
+This project was created by [Ammar Mohamed] while learning JavaScript from Scrimba. Feel free to use the code as a reference or starting point for your own projects. If you have any questions or suggestions, please don't hesitate to contact me.
